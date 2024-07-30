@@ -1,16 +1,14 @@
-## Hi there 👋
+##Olá, seja bem vindo ao meu perfil   
 
-<!--
-**Sntyasmin456797/Sntyasmin456797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yasmin
 
-Here are some ideas to get you started:
+- Estudante de teconologia do 1c
+- Estudo alura
+- Tenho 15 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo : box
+
+00001103655486sp@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/Nq5Uvu5HLywAAAAi/barbie-light-gif.gif)
