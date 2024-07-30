@@ -6,7 +6,7 @@ Meu nome é Yasmin
 - Estudo alura
 - Tenho 15 anos
 
-### voce entrar em contato comigo : box
+### voce entrar em contato comigo 📪
 
 00001103655486sp@al.educacao.sp.gov.br
 
